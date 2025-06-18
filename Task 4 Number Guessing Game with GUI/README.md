@@ -19,6 +19,9 @@ An ultra-immersive number guessing game built with Python Tkinter featuring:
 - 🎨 Smooth animations using threading
 - ⌨️ Keyboard shortcuts (Ctrl+N = New Game, Enter = Guess)
 
+  ![Game Screenshot](screenshot.png)
+
+
 ### 💻 How to Run
 1. Make sure Python is installed (`python.org`)
 2. Save the file as `number_guessing_game.py`
@@ -26,3 +29,4 @@ An ultra-immersive number guessing game built with Python Tkinter featuring:
 
 ```bash
 python number_guessing_game.py
+
